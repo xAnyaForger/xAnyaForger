@@ -76,7 +76,6 @@ I'm **Derol Chong**. I work with **AI and machine learning**, especially natural
   <img src="assets/world-arcade.svg" width="100%" alt="An illustrative agent adventure with a real contribution calendar. It does not represent measured model training." />
 </picture>
 
-<sub>Analytics use public GitHub data and refresh through the included workflow. Language percentages describe repository contents, not proficiency. The animated world is an illustrative story; it does not report real model training or performance.</sub>
 
 ---
 
