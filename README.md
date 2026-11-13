@@ -69,10 +69,6 @@ I'm **Derol Chong**. I work with **AI and machine learning**, especially natural
   <img src="assets/analytics-streak.svg" width="100%" alt="Actual current and longest streaks, with a two-week timeline containing genuine daily contribution counts." />
 </picture>
 
-### Neural Arcade
-
-An AI courier explores a circuit facility, meets a blocked shortcut, remembers a route, and unlocks the exit.
-
 <picture>
   <source media="(max-width: 640px) and (prefers-reduced-motion: reduce)" srcset="assets/world-arcade-mobile-still.svg" />
   <source media="(max-width: 640px)" srcset="assets/world-arcade-mobile.svg" />
