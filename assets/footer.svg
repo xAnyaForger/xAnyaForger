@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="160" viewBox="0 0 1440 160" role="img" aria-labelledby="title description">
+<title id="title">Keep learning. Keep building. — MiracleX</title><desc id="description">A thin cyan line and the MiracleX signature.</desc>
+<defs>
+  <linearGradient id="background" x2="1" y2="1"><stop stop-color="#080f1e"/><stop offset="1" stop-color="#060a13"/></linearGradient>
+  <linearGradient id="cyan" x2="1" y2="1"><stop stop-color="#b6fff5"/><stop offset=".5" stop-color="#4fe8df"/><stop offset="1" stop-color="#4799ff"/></linearGradient>
+  <linearGradient id="violet" x2=".2" y2="1"><stop stop-color="#a7a0ff"/><stop offset="1" stop-color="#5555d9"/></linearGradient>
+  <radialGradient id="aura"><stop stop-color="#186d79" stop-opacity=".23"/><stop offset="1" stop-color="#186d79" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#6bb6d5" stroke-opacity=".065"/></pattern>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<rect x="1" y="1" width="1438" height="158" rx="22" fill="url(#background)" stroke="#243247" stroke-width="2"/>
+<rect x="2" y="2" width="1436" height="156" rx="21" fill="url(#grid)"/>
+<path d="M48 56H1295" stroke="#25374a"/><path d="M48 56H148" stroke="#67e8dc" stroke-width="3"/>
+<text x="48" y="108" fill="#91a8bc" font-family="Consolas, monospace" font-size="22" font-weight="400" letter-spacing="2">KEEP LEARNING. KEEP BUILDING.</text>
+<text x="1090" y="108" fill="#67e8dc" font-family="Consolas, monospace" font-size="22" font-weight="400" >MIRACLEX</text>
+</svg>

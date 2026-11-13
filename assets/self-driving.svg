@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="350" viewBox="0 0 1440 350" role="img" aria-labelledby="title description">
+<title id="title">Self-Driving — computer vision for road navigation</title><desc id="description">Concept diagram of lane boundaries and a detected vehicle, illustrating the repository’s lane, vehicle, and steering detection features. Not an experimental result.</desc>
+<defs>
+  <linearGradient id="background" x2="1" y2="1"><stop stop-color="#080f1e"/><stop offset="1" stop-color="#060a13"/></linearGradient>
+  <linearGradient id="cyan" x2="1" y2="1"><stop stop-color="#b6fff5"/><stop offset=".5" stop-color="#4fe8df"/><stop offset="1" stop-color="#4799ff"/></linearGradient>
+  <linearGradient id="violet" x2=".2" y2="1"><stop stop-color="#a7a0ff"/><stop offset="1" stop-color="#5555d9"/></linearGradient>
+  <radialGradient id="aura"><stop stop-color="#186d79" stop-opacity=".23"/><stop offset="1" stop-color="#186d79" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#6bb6d5" stroke-opacity=".065"/></pattern>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<rect x="1" y="1" width="1438" height="348" rx="22" fill="url(#background)" stroke="#243247" stroke-width="2"/>
+<rect x="2" y="2" width="1436" height="346" rx="21" fill="url(#grid)"/>
+
+<circle cx="1120" cy="180" r="240" fill="url(#aura)"/>
+<text x="58" y="69" fill="#a9a5ff" font-family="Consolas, monospace" font-size="20" font-weight="400" letter-spacing="2">02 / COMPUTER VISION</text>
+<text x="56" y="146" fill="#edf6ff" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="650" >Self-Driving</text>
+<text x="60" y="202" fill="#adc1d4" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="400" >Exploring how machines see the road.</text>
+<text x="60" y="283" fill="#8ca1b8" font-family="Consolas, monospace" font-size="19" font-weight="400" >TENSORFLOW  /  KERAS  /  OPENCV</text>
+<g>
+<path d="M868 283L1079 85H1151L1362 283Z" fill="#0d1a2a"/>
+<path d="M868 283L1079 85M1151 85L1362 283" fill="none" stroke="#40516c" stroke-width="2"/>
+<path d="M990 283L1102 85H1128L1240 283" fill="#18433f" fill-opacity=".4" stroke="#4bdcc6" stroke-width="2"/>
+<path d="M1101.5 132L1097.5 151" stroke="#67e8dc" stroke-width="3"/><path d="M1128.5 132L1132.5 151" stroke="#67e8dc" stroke-width="3"/><path d="M1088.3 181L1084.3 200" stroke="#67e8dc" stroke-width="3"/><path d="M1141.7 181L1145.7 200" stroke="#67e8dc" stroke-width="3"/><path d="M1072.1 241L1068.1 260" stroke="#67e8dc" stroke-width="3"/><path d="M1157.9 241L1161.9 260" stroke="#67e8dc" stroke-width="3"/>
+<rect x="1086" y="140" width="57" height="42" rx="3" fill="#0d1a2a" stroke="#aaa4ff" stroke-width="2"/>
+<path d="M1081 133H1076V149M1149 133H1154V149M1081 189H1076V173M1149 189H1154V173" fill="none" stroke="#d2ccff" stroke-width="2"/>
+<path d="M1115 83V62M1101 70L1115 57L1129 70" fill="none" stroke="#9cefe3" stroke-width="2"/>
+</g>
+
+</svg>

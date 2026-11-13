@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="350" viewBox="0 0 1440 350" role="img" aria-labelledby="title description">
+<title id="title">GamerBuddy — NLP-powered game recommendations</title><desc id="description">Concept illustration of a chat interface. GamerBuddy uses BERT intent classification and game filtering; this illustration is not an application screenshot.</desc>
+<defs>
+  <linearGradient id="background" x2="1" y2="1"><stop stop-color="#080f1e"/><stop offset="1" stop-color="#060a13"/></linearGradient>
+  <linearGradient id="cyan" x2="1" y2="1"><stop stop-color="#b6fff5"/><stop offset=".5" stop-color="#4fe8df"/><stop offset="1" stop-color="#4799ff"/></linearGradient>
+  <linearGradient id="violet" x2=".2" y2="1"><stop stop-color="#a7a0ff"/><stop offset="1" stop-color="#5555d9"/></linearGradient>
+  <radialGradient id="aura"><stop stop-color="#186d79" stop-opacity=".23"/><stop offset="1" stop-color="#186d79" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#6bb6d5" stroke-opacity=".065"/></pattern>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<rect x="1" y="1" width="1438" height="348" rx="22" fill="url(#background)" stroke="#243247" stroke-width="2"/>
+<rect x="2" y="2" width="1436" height="346" rx="21" fill="url(#grid)"/>
+
+<circle cx="1120" cy="180" r="240" fill="url(#aura)"/>
+<text x="58" y="69" fill="#67e8dc" font-family="Consolas, monospace" font-size="20" font-weight="400" letter-spacing="2">01 / LANGUAGE INTELLIGENCE</text>
+<text x="56" y="146" fill="#edf6ff" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="650" >GamerBuddy</text>
+<text x="60" y="202" fill="#adc1d4" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="400" >Find your next game through conversation.</text>
+<text x="60" y="283" fill="#8ca1b8" font-family="Consolas, monospace" font-size="19" font-weight="400" >BERT  /  PYTORCH  /  TRANSFORMERS</text>
+<g transform="translate(844 67)">
+  <rect width="420" height="194" rx="18" fill="#0c1928" stroke="#335266" stroke-width="2"/>
+  <path d="M26 46H394" stroke="#263e51"/>
+  <circle cx="27" cy="23" r="4" fill="#66e9df"/>
+  <circle cx="43" cy="23" r="4" fill="#7889a9"/>
+  <circle cx="59" cy="23" r="4" fill="#7889a9"/>
+  <rect x="26" y="68" width="211" height="36" rx="10" fill="#142e3e"/>
+  <path d="M43 86H207" stroke="#7eacbd" stroke-width="4" stroke-linecap="round"/>
+  <rect x="168" y="123" width="226" height="42" rx="10" fill="#173e43"/>
+  <path d="M189 144H365" stroke="#69d9ca" stroke-width="4" stroke-linecap="round"/>
+  <path d="M50 194V209L73 194" fill="#0c1928" stroke="#335266" stroke-width="2"/>
+</g>
+<text x="903" y="297" fill="#6d9ba9" font-family="Consolas, monospace" font-size="17" font-weight="400" >MESSAGE → INTENT → MATCH</text>
+
+</svg>
