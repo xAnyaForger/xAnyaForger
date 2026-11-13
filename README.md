@@ -49,32 +49,38 @@ I'm **Derol Chong**. I work with **AI and machine learning**, especially natural
 ## GitHub Analytics
 
 <picture>
-  <source media="(max-width: 640px)" srcset="assets/analytics-stats-mobile.svg" />
-  <img src="assets/analytics-stats.svg" width="100%" alt="Derol Chong's actual GitHub repository, star, contribution, and active-day counts." />
+  <source media="(max-width: 640px) and (prefers-reduced-motion: reduce)" srcset="assets/analytics-activity-mobile-still.svg" />
+  <source media="(max-width: 640px)" srcset="assets/analytics-activity-mobile.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/analytics-activity-still.svg" />
+  <img src="assets/analytics-activity.svg" width="100%" alt="Actual public repositories, stars, contributions and active days; a cumulative chart follows genuine contribution dates." />
 </picture>
 
 <picture>
+  <source media="(max-width: 640px) and (prefers-reduced-motion: reduce)" srcset="assets/analytics-languages-mobile-still.svg" />
   <source media="(max-width: 640px)" srcset="assets/analytics-languages-mobile.svg" />
-  <img src="assets/analytics-languages.svg" width="100%" alt="Public repository languages by source bytes reported by GitHub." />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/analytics-languages-still.svg" />
+  <img src="assets/analytics-languages.svg" width="100%" alt="Public repository source bytes shown as a segmented spectrum and language composition chart." />
 </picture>
 
 <picture>
+  <source media="(max-width: 640px) and (prefers-reduced-motion: reduce)" srcset="assets/analytics-streak-mobile-still.svg" />
   <source media="(max-width: 640px)" srcset="assets/analytics-streak-mobile.svg" />
-  <img src="assets/analytics-streak.svg" width="100%" alt="Year-to-date contributions, current streak, and longest streak in the displayed year." />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/analytics-streak-still.svg" />
+  <img src="assets/analytics-streak.svg" width="100%" alt="Actual current and longest streaks, with a two-week timeline containing genuine daily contribution counts." />
 </picture>
 
-### Neuron Quest
+### Neural Arcade
 
-A curious little neuron hops between my real contribution days, gathers data sparks, and grows a constellation. Bigger coding days give it a bigger burst of sparks.
+An AI courier explores a circuit facility, meets a blocked shortcut, remembers a route, and unlocks the exit.
 
 <picture>
-  <source media="(max-width: 640px) and (prefers-reduced-motion: reduce)" srcset="assets/analytics-quest-mobile-still.svg" />
-  <source media="(max-width: 640px)" srcset="assets/analytics-quest-mobile.svg" />
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/analytics-quest-still.svg" />
-  <img src="assets/analytics-quest.svg" width="100%" alt="Neuron Quest: an original animated neuron character jumps above genuine GitHub contribution dates, collects data sparks, builds neural connections, and celebrates with starry eyes. Calendar counts stay unchanged." />
+  <source media="(max-width: 640px) and (prefers-reduced-motion: reduce)" srcset="assets/world-arcade-mobile-still.svg" />
+  <source media="(max-width: 640px)" srcset="assets/world-arcade-mobile.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/world-arcade-still.svg" />
+  <img src="assets/world-arcade.svg" width="100%" alt="An illustrative agent adventure with a real contribution calendar. It does not represent measured model training." />
 </picture>
 
-<sub>Stats use public GitHub data and update through the included workflow. Language percentages describe repository bytes, not proficiency. Neuron Quest is an illustrative story driven by actual active dates and contribution counts.</sub>
+<sub>Analytics use public GitHub data and refresh through the included workflow. Language percentages describe repository contents, not proficiency. The animated world is an illustrative story; it does not report real model training or performance.</sub>
 
 ---
 
