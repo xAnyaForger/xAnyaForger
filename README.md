@@ -1,57 +1,39 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="MiracleX — Building intelligence. One experiment at a time." width="100%" />
-</p>
+<picture>
+  <source media="(max-width: 640px) and (prefers-reduced-motion: reduce)" srcset="assets/hud-mobile-still.svg" />
+  <source media="(max-width: 640px)" srcset="assets/hud-mobile.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hud-still.svg" />
+  <img src="assets/hud.svg" width="100%" alt="MiracleX — AI and machine learning. An animated startup loads the interface, draws the circular HUD, then slides in panels that type an introduction and AI/ML interests." />
+</picture>
 
 <p align="center">
-  <a href="#selected-projects">Selected projects</a> &nbsp; / &nbsp;
-  <a href="#toolbox">Toolbox</a> &nbsp; / &nbsp;
+  <a href="#projects">Projects</a> &nbsp; / &nbsp;
+  <a href="#technology">Technology</a> &nbsp; / &nbsp;
   <a href="https://github.com/xAnyaForger?tab=repositories">All repositories</a>
 </p>
 
-### Hey, I'm MiracleX.
+I'm **MiracleX**. I build with **AI and machine learning**, exploring natural language processing, computer vision, and useful AI applications.
 
-I build projects around **AI, natural language processing, and computer vision** — from a chatbot that helps people discover games to systems that interpret the road.
+## Projects
 
-I like turning an idea into something you can actually use, then figuring out how to make it better.
+### [GamerBuddy ↗](https://github.com/xAnyaForger/GamerBuddy)
 
-## Selected projects
+A desktop chatbot for discovering Steam games through conversation. BERT recognises intent, catalogue filtering handles genre, budget, and rating preferences, and language models support chat and game descriptions.
 
-<a href="https://github.com/xAnyaForger/GamerBuddy">
-  <img src="assets/gamerbuddy.svg" alt="Explore GamerBuddy: a conversational game recommendation chatbot built with BERT, PyTorch, and Transformers. Chat concept illustration." width="100%" />
-</a>
+**Python · PyTorch · Hugging Face Transformers · CustomTkinter**
 
-**[GamerBuddy ↗](https://github.com/xAnyaForger/GamerBuddy)** · A desktop chatbot for discovering Steam games. Combines BERT intent recognition, preference-based filtering, and language models for conversation and game descriptions.
+### [Self-Driving ↗](https://github.com/xAnyaForger/Self-Driving)
 
-`Python` `PyTorch` `Hugging Face Transformers` `CustomTkinter`
+A computer vision project exploring lane detection, vehicle detection, and steering detection for autonomous navigation.
 
-<br />
+**Python · TensorFlow · Keras · OpenCV**
 
-<a href="https://github.com/xAnyaForger/Self-Driving">
-  <img src="assets/self-driving.svg" alt="Explore Self-Driving: lane, vehicle, and steering detection with computer vision. Road perception concept illustration." width="100%" />
-</a>
+## Technology
 
-**[Self-Driving ↗](https://github.com/xAnyaForger/Self-Driving)** · A computer vision project exploring lane detection, vehicle detection, and steering detection for autonomous navigation.
-
-`Python` `TensorFlow` `Keras` `OpenCV`
-
-<sub>Project artwork illustrates each system's focus; it is not a screenshot or a measured result.</sub>
-
-## Toolbox
-
-| Area | Tools I've used in these projects |
-| :--- | :--- |
-| Languages | Python |
-| Deep learning | PyTorch · TensorFlow · Keras |
-| Language models | Hugging Face Transformers · BERT |
-| Vision & data | OpenCV · NumPy · Pandas · scikit-learn |
-| Desktop interfaces | CustomTkinter |
-
-## Let's connect
-
-Interested in AI, useful software, or games? Explore my projects and follow along as I build.
-
-**[Browse my repositories ↗](https://github.com/xAnyaForger?tab=repositories)**
+**Models & vision** · PyTorch, TensorFlow, Keras, Hugging Face Transformers, OpenCV  
+**Data & applications** · NumPy, Pandas, scikit-learn, CustomTkinter
 
 <br />
 
-<img src="assets/footer.svg" alt="Keep learning. Keep building. — MiracleX" width="100%" />
+**[Explore all repositories ↗](https://github.com/xAnyaForger?tab=repositories)**
+
+<sub>The HUD is original animated artwork. Its startup sequence, radar, and signal patterns are visual effects rather than live system telemetry.</sub>
