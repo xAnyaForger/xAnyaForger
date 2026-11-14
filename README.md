@@ -52,7 +52,7 @@ I'm **Derol Chong**. I work with **AI and machine learning**, especially natural
   <source media="(max-width: 640px) and (prefers-reduced-motion: reduce)" srcset="assets/analytics-activity-mobile-still.svg" />
   <source media="(max-width: 640px)" srcset="assets/analytics-activity-mobile.svg" />
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/analytics-activity-still.svg" />
-  <img src="assets/analytics-activity.svg" width="100%" alt="Actual public repositories, stars, contributions and active days; a cumulative chart follows genuine contribution dates." />
+  <img src="assets/analytics-activity.svg" width="100%" alt="Actual public repositories, stars, year contributions and active days, with an animated ring framing the contribution count." />
 </picture>
 
 <picture>
@@ -66,8 +66,12 @@ I'm **Derol Chong**. I work with **AI and machine learning**, especially natural
   <source media="(max-width: 640px) and (prefers-reduced-motion: reduce)" srcset="assets/analytics-streak-mobile-still.svg" />
   <source media="(max-width: 640px)" srcset="assets/analytics-streak-mobile.svg" />
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/analytics-streak-still.svg" />
-  <img src="assets/analytics-streak.svg" width="100%" alt="Actual current and longest streaks, with a two-week timeline containing genuine daily contribution counts." />
+  <img src="assets/analytics-streak.svg" width="100%" alt="Year contributions, current streak and longest streak; an animated ring and flame highlight the current streak." />
 </picture>
+
+### Neural Arcade
+
+An AI courier explores a circuit facility, meets a blocked shortcut, remembers a route, and unlocks the exit.
 
 <picture>
   <source media="(max-width: 640px) and (prefers-reduced-motion: reduce)" srcset="assets/world-arcade-mobile-still.svg" />
@@ -76,6 +80,7 @@ I'm **Derol Chong**. I work with **AI and machine learning**, especially natural
   <img src="assets/world-arcade.svg" width="100%" alt="An illustrative agent adventure with a real contribution calendar. It does not represent measured model training." />
 </picture>
 
+<sub>Analytics use public GitHub data and refresh through the included workflow. Language percentages describe repository contents, not proficiency. The animated world is an illustrative story; it does not report real model training or performance.</sub>
 
 ---
 
